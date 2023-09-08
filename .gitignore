@@ -1,0 +1,5 @@
+db.sqlite3
+.env
+practice_project/.env
+practice_project/__pycache__/
+practice_project/__init__.py
